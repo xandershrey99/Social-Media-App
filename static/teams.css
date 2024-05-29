@@ -1,0 +1,623 @@
+.profile-cover-pics-with-pers-child4 {
+  position: absolute;
+  top: 1px;
+  left: -2px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 472px;
+  height: 293px;
+}
+.profile-cover-pics-with-pers-child5 {
+  position: absolute;
+  top: 77px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+}
+.description2,
+.no-of-members,
+.team-details,
+.team-name11 {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.team-name11 {
+  top: 192px;
+  left: 25px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  width: 105px;
+}
+.description2,
+.no-of-members,
+.team-details {
+  top: 213px;
+  left: 26px;
+  width: 104px;
+}
+.description2,
+.team-details {
+  top: 240px;
+  left: 47px;
+  width: 97px;
+}
+.team-details {
+  top: 263px;
+  width: 187px;
+}
+.component-3-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-slateblue);
+}
+.send {
+  position: absolute;
+  width: 61.9%;
+  top: 27.5%;
+  left: 19.05%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-archivo);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 188px;
+  left: 366px;
+  width: 82px;
+  height: 40px;
+}
+.component-6-child {
+  position: absolute;
+  height: 90.91%;
+  width: 95.35%;
+  top: 0;
+  right: 4.65%;
+  bottom: 9.09%;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.message5 {
+  position: absolute;
+  width: 82.56%;
+  top: 25%;
+  left: 6.98%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-6 {
+  position: absolute;
+  top: 186px;
+  left: 270px;
+  border-radius: var(--br-xl);
+  border: 4px solid var(--color-slateblue);
+  box-sizing: border-box;
+  width: 86px;
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-slateblue);
+}
+.profile-cover-pics-with-pers-child6 {
+  position: absolute;
+  top: 1px;
+  left: -1px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver-200);
+  width: 472px;
+  height: 176px;
+}
+.profile-cover-pics-with-pers-child7,
+.profile-cover-pics-with-pers4 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.profile-cover-pics-with-pers4 {
+  top: 82px;
+  left: 364px;
+  width: 470px;
+  height: 294px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.profile-cover-pics-with-pers-child7 {
+  top: 177px;
+  left: -2px;
+  width: 472px;
+  height: 117px;
+}
+.attack,
+.defend,
+.no-of-deaths,
+.no-of-kills,
+.side-rating,
+.team-kd {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.team-kd {
+  top: 45px;
+  left: 181px;
+  font-size: var(--font-size-base);
+  color: var(--color-lightslategray);
+  width: 105px;
+}
+.attack,
+.defend,
+.no-of-deaths,
+.no-of-kills,
+.side-rating {
+  width: 104px;
+}
+.no-of-kills {
+  top: 77px;
+  left: 181px;
+  color: var(--color-slateblue);
+}
+.attack,
+.defend,
+.no-of-deaths,
+.side-rating {
+  top: 177px;
+}
+.attack {
+  left: 181px;
+  color: var(--color-slateblue);
+}
+.defend,
+.no-of-deaths,
+.side-rating {
+  left: 286px;
+}
+.no-of-deaths,
+.side-rating {
+  top: 77px;
+}
+.side-rating {
+  top: 145px;
+  left: 181px;
+  width: 97px;
+}
+.profile-cover-pics-with-pers-child8,
+.profile-cover-pics-with-pers-child9 {
+  position: absolute;
+  top: 105px;
+  left: 180px;
+  background-color: var(--color-slateblue);
+  width: 187px;
+  height: 14px;
+}
+.profile-cover-pics-with-pers-child9 {
+  top: 205px;
+  width: 115px;
+}
+.profile-cover-pics-with-pers-child10,
+.profile-cover-pics-with-pers-child11 {
+  position: absolute;
+  top: 105px;
+  left: 367px;
+  background-color: var(--color-gainsboro);
+  width: 67px;
+  height: 14px;
+}
+.profile-cover-pics-with-pers-child11 {
+  top: 205px;
+  left: 294px;
+  width: 139px;
+}
+.profile-cover-pics-with-pers5 {
+  position: absolute;
+  top: 397px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 470px;
+  height: 294px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.navigation-bar-child1 {
+  position: absolute;
+  top: 13px;
+  left: 1105px;
+  width: 40px;
+  height: 40px;
+}
+.icbaseline-notifications-icon3,
+.jammessages-f-icon6,
+.material-symbolsarrow-drop-do-icon3 {
+  position: absolute;
+  top: 21px;
+  left: 1141px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-notifications-icon3,
+.jammessages-f-icon6 {
+  left: 1059px;
+}
+.jammessages-f-icon6 {
+  left: 1023px;
+}
+.search-bar-icon3 {
+  position: absolute;
+  top: 13.5px;
+  left: 448px;
+  border-radius: var(--br-xl);
+  width: 471px;
+  height: 40px;
+}
+.esportsgen3 {
+  position: absolute;
+  top: 14px;
+  left: 282px;
+  display: inline-block;
+  width: 144px;
+  height: 40px;
+}
+.navigation-bar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1366px;
+  height: 66px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.settings3 {
+  position: absolute;
+  top: 226px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolssettings-icon3 {
+  position: absolute;
+  top: 224px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.create4 {
+  position: absolute;
+  top: 190px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.icbaseline-add-circle-outline-icon3 {
+  position: absolute;
+  top: 188px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.tournaments4 {
+  position: absolute;
+  top: 154px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.mditrophy-icon3 {
+  position: absolute;
+  top: 152px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.messages3 {
+  position: absolute;
+  top: 118px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.jammessages-f-icon7 {
+  position: absolute;
+  top: 116px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.teams4 {
+  position: absolute;
+  top: 82px;
+  left: 41px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.fluentpeople-team-24-filled-icon3 {
+  position: absolute;
+  top: 80px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.profile3 {
+  position: absolute;
+  top: 46px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.healthiconsui-user-profile3 {
+  position: absolute;
+  top: 44px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.overview4 {
+  position: absolute;
+  top: 10px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolshome-icon3,
+.sidebar-container,
+.sidebar3 {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.sidebar-container,
+.sidebar3 {
+  top: 0;
+  left: 0;
+  width: 142px;
+  height: 702px;
+}
+.sidebar-container {
+  top: 82px;
+  left: 202px;
+  color: var(--color-lightslategray);
+}
+.active-users {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 230px;
+  height: 20px;
+}
+.chats-child19,
+.chats-child20,
+.chats-child21 {
+  position: absolute;
+  top: 51px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child20,
+.chats-child21 {
+  top: 117px;
+}
+.chats-child21 {
+  top: 184px;
+}
+.user-name12,
+.user-name13 {
+  position: absolute;
+  left: 84px;
+  width: 86px;
+}
+.user-name12 {
+  top: 66px;
+  font-weight: 600;
+  display: inline-block;
+}
+.user-name13 {
+  top: 132px;
+}
+.role,
+.role1,
+.user-name13,
+.user-name14 {
+  font-weight: 600;
+  display: inline-block;
+}
+.user-name14 {
+  position: absolute;
+  top: 199px;
+  left: 84px;
+  width: 86px;
+}
+.role,
+.role1 {
+  left: 198px;
+  width: 84px;
+}
+.role {
+  position: absolute;
+  top: 66px;
+}
+.role1 {
+  top: 132px;
+}
+.chats6,
+.role1,
+.role2 {
+  position: absolute;
+}
+.role2 {
+  top: 199px;
+  left: 198px;
+  font-weight: 600;
+  display: inline-block;
+  width: 84px;
+}
+.chats6 {
+  top: 82px;
+  left: 857px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 309px;
+  height: 294px;
+  overflow: hidden;
+}
+.upcoming-matches1 {
+  position: absolute;
+  top: 11px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 185px;
+  height: 20px;
+}
+.chats-child22,
+.chats-child23,
+.chats-child24,
+.chats-child25 {
+  position: absolute;
+  top: 73px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+}
+.chats-child23,
+.chats-child24,
+.chats-child25 {
+  top: 188px;
+}
+.chats-child24,
+.chats-child25 {
+  top: 110px;
+}
+.chats-child25 {
+  top: 225px;
+}
+.date-time2,
+.date-time3,
+.team-name12,
+.team-name13,
+.team-name14,
+.team-name15 {
+  position: absolute;
+  top: 76px;
+  left: 51px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.date-time2,
+.date-time3,
+.team-name13,
+.team-name14,
+.team-name15 {
+  top: 191px;
+}
+.date-time2,
+.date-time3,
+.team-name14,
+.team-name15 {
+  top: 82px;
+  left: 170px;
+}
+.date-time3,
+.team-name14,
+.team-name15 {
+  top: 197px;
+}
+.team-name14,
+.team-name15 {
+  top: 111px;
+  left: 51px;
+}
+.team-name15 {
+  top: 226px;
+}
+.tournament-name-stage2,
+.tournament-name-stage3 {
+  position: absolute;
+  top: 47px;
+  left: 51px;
+  font-weight: 600;
+  color: var(--color-lightslategray);
+  display: flex;
+  align-items: center;
+  width: 238px;
+}
+.tournament-name-stage3 {
+  top: 162px;
+}
+.chats7 {
+  position: absolute;
+  top: 397px;
+  left: 860px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 306px;
+  height: 294px;
+  overflow: hidden;
+}
+.teams3 {
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  width: 100%;
+  height: 794px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}

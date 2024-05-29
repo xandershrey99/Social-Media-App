@@ -1,0 +1,534 @@
+.your-chats2 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 128px;
+  height: 20px;
+}
+.chats-child35,
+.chats-child36,
+.chats-child37,
+.chats-child38 {
+  position: absolute;
+  top: 51px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child36,
+.chats-child37,
+.chats-child38 {
+  top: 127px;
+}
+.chats-child37,
+.chats-child38 {
+  top: 203px;
+}
+.chats-child38 {
+  top: 279px;
+}
+.chats-child39,
+.chats-child40,
+.chats-child41,
+.chats-child42 {
+  position: absolute;
+  top: 355px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child40,
+.chats-child41,
+.chats-child42 {
+  top: 431px;
+}
+.chats-child41,
+.chats-child42 {
+  top: 507px;
+}
+.chats-child42 {
+  top: 583px;
+}
+.user-name21,
+.user-name22 {
+  position: absolute;
+  top: 52px;
+  left: 86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.user-name22 {
+  top: 128px;
+}
+.message12,
+.user-name23,
+.user-name24,
+.user-name25,
+.user-name26,
+.user-name27,
+.user-name28 {
+  position: absolute;
+  top: 204px;
+  left: 86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.message12,
+.user-name24,
+.user-name25,
+.user-name26,
+.user-name27,
+.user-name28 {
+  top: 280px;
+}
+.message12,
+.user-name25,
+.user-name26,
+.user-name27,
+.user-name28 {
+  top: 356px;
+}
+.message12,
+.user-name26,
+.user-name27,
+.user-name28 {
+  top: 432px;
+}
+.message12,
+.user-name27,
+.user-name28 {
+  top: 508px;
+}
+.message12,
+.user-name28 {
+  top: 584px;
+}
+.message12 {
+  top: 77px;
+}
+.message13,
+.message14,
+.message15,
+.message16,
+.message17,
+.message18,
+.message19 {
+  position: absolute;
+  top: 153px;
+  left: 86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.message14,
+.message15,
+.message16,
+.message17,
+.message18,
+.message19 {
+  top: 229px;
+}
+.message15,
+.message16,
+.message17,
+.message18,
+.message19 {
+  top: 305px;
+}
+.message16,
+.message17,
+.message18,
+.message19 {
+  top: 381px;
+}
+.message17,
+.message18,
+.message19 {
+  top: 457px;
+}
+.message18,
+.message19 {
+  top: 533px;
+}
+.message19 {
+  top: 609px;
+}
+.chats10 {
+  position: absolute;
+  top: 78px;
+  left: 857px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 309px;
+  height: 702px;
+  overflow: hidden;
+}
+.navigation-bar-child3 {
+  position: absolute;
+  top: 13px;
+  left: 1102px;
+  width: 40px;
+  height: 40px;
+}
+.icbaseline-notifications-icon5,
+.jammessages-f-icon10 {
+  position: absolute;
+  top: 21px;
+  left: 1062px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.jammessages-f-icon10 {
+  left: 1022px;
+}
+.search-bar-icon5 {
+  position: absolute;
+  top: 13.5px;
+  left: 448px;
+  border-radius: var(--br-xl);
+  width: 471px;
+  height: 40px;
+}
+.esportsgen5 {
+  position: absolute;
+  top: 14px;
+  left: 200px;
+  display: inline-block;
+  width: 144px;
+  height: 40px;
+}
+.material-symbolsarrow-drop-do-icon5 {
+  position: absolute;
+  top: 21px;
+  left: 1142px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.messages-child,
+.navigation-bar5 {
+  background-color: var(--color-white);
+  position: absolute;
+}
+.navigation-bar5 {
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 66px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.messages-child {
+  border: 0;
+  top: 78px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  width: 473px;
+  height: 98px;
+}
+.active-status,
+.name1 {
+  position: absolute;
+  top: 96px;
+  left: 448px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 83px;
+  height: 20px;
+}
+.active-status {
+  top: 124px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  width: 187px;
+}
+.messages-item {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 187px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  width: 307px;
+  height: 45px;
+}
+.messages-child1,
+.messages-child2,
+.messages-inner,
+.rectangle-textarea {
+  position: absolute;
+  top: 244px;
+  left: 533px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-slateblue);
+  width: 304px;
+  height: 45px;
+}
+.messages-child1,
+.messages-child2,
+.rectangle-textarea {
+  border: 0;
+  background-color: var(--color-white);
+  top: 301px;
+  left: 366px;
+  width: 305px;
+}
+.messages-child1,
+.messages-child2 {
+  background-color: var(--color-silver-100);
+  top: 358px;
+  left: 533px;
+  height: 158px;
+}
+.messages-child2 {
+  background-color: var(--color-slateblue);
+  top: 400px;
+  height: 116px;
+}
+.messages-child3,
+.messages-child4 {
+  border-radius: var(--br-xl);
+  width: 305px;
+  height: 45px;
+}
+.messages-child3 {
+  position: absolute;
+  top: 586px;
+  left: 533px;
+  background-color: var(--color-slateblue);
+}
+.messages-child4 {
+  border: 0;
+  top: 528px;
+  left: 366px;
+}
+.messages-child4,
+.messages-child5,
+.messages-child6,
+.rectangle-input {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.messages-child5 {
+  border: 0;
+  top: 643px;
+  left: 366px;
+  border-radius: var(--br-xl);
+  width: 305px;
+  height: 45px;
+}
+.messages-child6,
+.rectangle-input {
+  top: 700px;
+  left: 364px;
+  width: 473px;
+  height: 80px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-black);
+  top: 722px;
+  left: 381px;
+  border-radius: var(--br-xl);
+  box-sizing: border-box;
+  width: 276px;
+  height: 42px;
+}
+.icbaseline-add-circle-outline-icon5,
+.icoutline-emoji-emotions-icon {
+  position: absolute;
+  top: 731px;
+  left: 700px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.icoutline-emoji-emotions-icon {
+  top: 733px;
+  left: 729px;
+  width: 18px;
+  height: 20px;
+}
+.component-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-slateblue);
+}
+.send2 {
+  position: absolute;
+  width: 61.9%;
+  top: 27.5%;
+  left: 19.05%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-2 {
+  position: absolute;
+  top: 723px;
+  left: 757px;
+  width: 64px;
+  height: 40px;
+  text-align: center;
+  color: var(--color-white);
+}
+.settings5 {
+  position: absolute;
+  top: 226px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolssettings-icon5 {
+  position: absolute;
+  top: 224px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.create6 {
+  position: absolute;
+  top: 190px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.icbaseline-add-circle-outline-icon6 {
+  position: absolute;
+  top: 188px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.tournaments6 {
+  position: absolute;
+  top: 154px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.mditrophy-icon5 {
+  position: absolute;
+  top: 152px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.messages6 {
+  position: absolute;
+  top: 118px;
+  left: 41px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.jammessages-f-icon11 {
+  position: absolute;
+  top: 116px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.teams6 {
+  position: absolute;
+  top: 82px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.fluentpeople-team-24-filled-icon5 {
+  position: absolute;
+  top: 80px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.profile6 {
+  position: absolute;
+  top: 46px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.healthiconsui-user-profile5 {
+  position: absolute;
+  top: 44px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.overview6 {
+  position: absolute;
+  top: 10px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolshome-icon5,
+.sidebar-wrapper1,
+.sidebar5 {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.sidebar-wrapper1,
+.sidebar5 {
+  top: 0;
+  left: 0;
+  width: 142px;
+  height: 702px;
+}
+.sidebar-wrapper1 {
+  top: 92px;
+  left: 200px;
+  color: var(--color-lightslategray);
+}
+.messages5 {
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  width: 100%;
+  height: 794px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}

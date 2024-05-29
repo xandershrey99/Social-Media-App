@@ -1,0 +1,510 @@
+.profile-cover-pics-with-pers-child {
+  position: absolute;
+  top: 177px;
+  left: -2px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 472px;
+  height: 117px;
+}
+.add-tag,
+.description,
+.general-information,
+.title {
+  position: absolute;
+  top: 18px;
+  left: 25px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-archivo);
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 149px;
+  height: 20px;
+}
+.add-tag,
+.description,
+.title {
+  top: 67px;
+  left: 55px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  width: 104px;
+}
+.add-tag,
+.description {
+  top: 127px;
+  width: 97px;
+}
+.add-tag {
+  top: 187px;
+  width: 79px;
+}
+.profile-cover-pics-with-pers-item {
+  position: absolute;
+  top: 247px;
+  left: 39px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 54px;
+  height: 24px;
+}
+.tag-12 {
+  position: absolute;
+  top: 247px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-archivo);
+  color: var(--color-lightslategray);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 42px;
+  height: 24px;
+}
+.profile-cover-pics-with-pers-inner {
+  position: absolute;
+  top: 247px;
+  left: 99px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 52px;
+  height: 24px;
+}
+.tag-22 {
+  position: absolute;
+  top: 247px;
+  left: 105px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-archivo);
+  color: var(--color-lightslategray);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 40px;
+  height: 24px;
+}
+.profile-cover-pics-with-pers {
+  position: absolute;
+  top: 82px;
+  left: 364px;
+  background-color: var(--color-white);
+  width: 470px;
+  height: 294px;
+  overflow: hidden;
+}
+.add-links,
+.add-media,
+.duration,
+.media-links,
+.video-title {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.media-links {
+  top: 25px;
+  left: 28px;
+  color: var(--color-black);
+  width: 199px;
+}
+.add-links,
+.add-media,
+.duration,
+.video-title {
+  top: 242px;
+  left: 184px;
+  width: 105px;
+}
+.add-links,
+.duration,
+.video-title {
+  top: 301px;
+  left: 183px;
+}
+.duration,
+.video-title {
+  top: 195px;
+  left: 29px;
+  color: var(--color-lightslategray);
+}
+.video-title {
+  top: 169px;
+  left: 28px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 229px;
+  left: 29px;
+  border-radius: var(--br-xl);
+  width: 413px;
+  height: 45px;
+}
+.profile-cover-pics-with-pers-child1,
+.rectangle-button {
+  position: absolute;
+  left: 28px;
+  border-radius: var(--br-xl);
+  width: 413px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 2px dashed var(--color-black);
+  padding: 0;
+  background-color: var(--color-lightsteelblue);
+  top: 288px;
+  box-sizing: border-box;
+  height: 45px;
+}
+.profile-cover-pics-with-pers-child1 {
+  top: 58px;
+  background-color: var(--color-silver-100);
+  height: 97px;
+}
+.profile-cover-pics-with-pers1 {
+  position: absolute;
+  top: 397px;
+  left: 364px;
+  background-color: var(--color-white);
+  width: 470px;
+  height: 364px;
+  overflow: hidden;
+  color: var(--color-slateblue);
+}
+.navigation-bar-item {
+  position: absolute;
+  top: 13px;
+  left: 1105px;
+  width: 40px;
+  height: 40px;
+}
+.icbaseline-notifications-icon1,
+.jammessages-f-icon2,
+.material-symbolsarrow-drop-do-icon1 {
+  position: absolute;
+  top: 21px;
+  left: 1141px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-notifications-icon1,
+.jammessages-f-icon2 {
+  left: 1059px;
+}
+.jammessages-f-icon2 {
+  left: 1023px;
+}
+.search-bar-icon1 {
+  position: absolute;
+  top: 13.5px;
+  left: 448px;
+  border-radius: var(--br-xl);
+  width: 471px;
+  height: 40px;
+}
+.esportsgen1 {
+  position: absolute;
+  top: 14px;
+  left: 282px;
+  display: inline-block;
+  width: 144px;
+  height: 40px;
+}
+.navigation-bar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1366px;
+  height: 66px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.settings1 {
+  position: absolute;
+  top: 226px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolssettings-icon1 {
+  position: absolute;
+  top: 224px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.create2 {
+  position: absolute;
+  top: 190px;
+  left: 41px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.icbaseline-add-circle-outline-icon1 {
+  position: absolute;
+  top: 188px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.tournaments1 {
+  position: absolute;
+  top: 154px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.mditrophy-icon1 {
+  position: absolute;
+  top: 152px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.messages1 {
+  position: absolute;
+  top: 118px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.jammessages-f-icon3 {
+  position: absolute;
+  top: 116px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.teams1 {
+  position: absolute;
+  top: 82px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.fluentpeople-team-24-filled-icon1 {
+  position: absolute;
+  top: 80px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.profile1 {
+  position: absolute;
+  top: 46px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.healthiconsui-user-profile1 {
+  position: absolute;
+  top: 44px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.overview2 {
+  position: absolute;
+  top: 10px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolshome-icon1,
+.sidebar-wrapper,
+.sidebar1 {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.sidebar-wrapper,
+.sidebar1 {
+  top: 0;
+  left: 0;
+  width: 142px;
+  height: 702px;
+}
+.sidebar-wrapper {
+  top: 82px;
+  left: 202px;
+  color: var(--color-lightslategray);
+}
+.post-type {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 230px;
+  height: 20px;
+}
+.highlights,
+.highlights1,
+.post {
+  position: absolute;
+  top: 66px;
+  left: 84px;
+  font-weight: 600;
+  display: inline-block;
+  width: 86px;
+}
+.highlights,
+.highlights1 {
+  top: 130px;
+  left: 86px;
+  width: 84px;
+}
+.highlights1 {
+  top: 194px;
+}
+.chats2 {
+  position: absolute;
+  top: 82px;
+  left: 857px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 309px;
+  height: 294px;
+  overflow: hidden;
+}
+.chats-child7 {
+  position: absolute;
+  top: 51px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child10,
+.chats-child11,
+.chats-child8,
+.chats-child9 {
+  position: absolute;
+  top: 114px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child10,
+.chats-child11,
+.chats-child9 {
+  top: 177px;
+}
+.chats-child10,
+.chats-child11 {
+  top: 240px;
+}
+.chats-child11 {
+  top: 303px;
+}
+.user-name10,
+.user-name11,
+.user-name8,
+.user-name9 {
+  position: absolute;
+  top: 129px;
+  left: 84px;
+  font-weight: 600;
+  display: inline-block;
+  width: 86px;
+}
+.user-name10,
+.user-name11,
+.user-name9 {
+  top: 192px;
+}
+.user-name10,
+.user-name11 {
+  top: 255px;
+}
+.user-name11 {
+  top: 318px;
+}
+.chats3,
+.create-child,
+.create-item {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.chats3 {
+  top: 392px;
+  left: 857px;
+  background-color: var(--color-white);
+  width: 309px;
+  height: 369px;
+  overflow: hidden;
+}
+.create-child,
+.create-item {
+  border: 0;
+  left: 394px;
+  width: 413px;
+  height: 45px;
+}
+.create-child {
+  background-color: var(--color-lightsteelblue);
+  top: 135px;
+}
+.create-item {
+  top: 197px;
+}
+.create-item,
+.create1,
+.input {
+  background-color: var(--color-lightsteelblue);
+}
+.input {
+  border: 0;
+  position: absolute;
+  top: 259px;
+  left: 394px;
+  border-radius: var(--br-xl);
+  width: 413px;
+  height: 45px;
+}
+.create1 {
+  position: relative;
+  width: 100%;
+  height: 794px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}

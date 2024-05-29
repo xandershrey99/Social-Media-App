@@ -1,0 +1,747 @@
+.profile-cover-pics-with-pers-child12,
+.rectangle-article {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver-200);
+  width: 472px;
+  height: 176px;
+}
+.profile-cover-pics-with-pers-child12 {
+  top: 177px;
+  left: -2px;
+  background-color: var(--color-white);
+  height: 117px;
+}
+.profile-cover-pics-with-pers-child13 {
+  position: absolute;
+  top: 77px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+}
+.name {
+  top: 192px;
+  left: 26px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 208px;
+}
+.description3,
+.name,
+.username {
+  position: absolute;
+  height: 20px;
+}
+.username {
+  top: 216px;
+  left: 26px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 208px;
+}
+.description3 {
+  top: 244px;
+  left: 47px;
+  width: 97px;
+}
+.description3,
+.message6,
+.personal-details {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.personal-details {
+  position: absolute;
+  top: 272px;
+  left: 47px;
+  width: 187px;
+  height: 20px;
+}
+.message6 {
+  position: relative;
+  justify-content: center;
+  width: 71px;
+}
+.component-5,
+.component-7-child {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.component-5 {
+  height: 12.99%;
+  width: 17.45%;
+  top: 62.99%;
+  right: 25.32%;
+  bottom: 24.03%;
+  left: 57.23%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-slateblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 0;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-slateblue);
+}
+.component-7-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-slateblue);
+}
+.send1 {
+  position: absolute;
+  width: 61.9%;
+  top: 27.5%;
+  left: 19.05%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-archivo);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 196px;
+  left: 363px;
+  width: 82px;
+  height: 40px;
+}
+.profile-cover-pics-with-pers6 {
+  position: absolute;
+  top: 82px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 470px;
+  height: 308px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.navigation-bar-child2 {
+  position: absolute;
+  top: 13px;
+  left: 1105px;
+  width: 40px;
+  height: 40px;
+}
+.icbaseline-notifications-icon4,
+.jammessages-f-icon8,
+.material-symbolsarrow-drop-do-icon4 {
+  position: absolute;
+  top: 21px;
+  left: 1141px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-notifications-icon4,
+.jammessages-f-icon8 {
+  left: 1059px;
+}
+.jammessages-f-icon8 {
+  left: 1023px;
+}
+.search-bar-icon4 {
+  position: absolute;
+  top: 13.5px;
+  left: 448px;
+  border-radius: var(--br-xl);
+  width: 471px;
+  height: 40px;
+}
+.esportsgen4 {
+  position: absolute;
+  top: 14px;
+  left: 282px;
+  display: inline-block;
+  width: 144px;
+  height: 40px;
+}
+.navigation-bar4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1366px;
+  height: 66px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.settings4 {
+  position: absolute;
+  top: 226px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolssettings-icon4 {
+  position: absolute;
+  top: 224px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.create5 {
+  position: absolute;
+  top: 190px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.icbaseline-add-circle-outline-icon4 {
+  position: absolute;
+  top: 188px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.tournaments5 {
+  position: absolute;
+  top: 154px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.mditrophy-icon4 {
+  position: absolute;
+  top: 152px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.messages4 {
+  position: absolute;
+  top: 118px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.jammessages-f-icon9 {
+  position: absolute;
+  top: 116px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.teams5 {
+  position: absolute;
+  top: 82px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.fluentpeople-team-24-filled-icon4 {
+  position: absolute;
+  top: 80px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.profile5 {
+  position: absolute;
+  top: 46px;
+  left: 41px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.healthiconsui-user-profile4 {
+  position: absolute;
+  top: 44px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.overview5 {
+  position: absolute;
+  top: 10px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 24px;
+}
+.material-symbolshome-icon4 {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.sidebar-frame,
+.sidebar4 {
+  width: 142px;
+  overflow: hidden;
+}
+.sidebar4 {
+  position: relative;
+  height: 702px;
+  flex-shrink: 0;
+}
+.sidebar-frame {
+  position: absolute;
+  top: 82px;
+  left: 202px;
+  height: 796px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--color-lightslategray);
+}
+.entypodots-three-vertical-icon2 {
+  position: absolute;
+  top: 16px;
+  left: 429px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.live-stream-post-child3 {
+  position: absolute;
+  top: 16px;
+  left: 25px;
+  width: 56px;
+  height: 56px;
+}
+.user-name15 {
+  top: 22px;
+  left: 95px;
+  width: 87px;
+}
+.lorem-ipsum-dolor1,
+.post-time2,
+.title-of-the2,
+.user-name15 {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.post-time2 {
+  top: 47px;
+  left: 95px;
+  color: var(--color-lightslategray);
+  width: 90px;
+}
+.lorem-ipsum-dolor1,
+.title-of-the2 {
+  top: 104px;
+  left: 94px;
+  width: 355px;
+}
+.lorem-ipsum-dolor1 {
+  top: 129px;
+  left: 95px;
+  color: var(--color-lightslategray);
+  width: 343px;
+}
+.icon-park-outlinelike2,
+.mditriangle-small-up-icon2 {
+  position: absolute;
+  top: 300px;
+  left: 95px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.icon-park-outlinelike2 {
+  left: 175px;
+}
+.icon-park-outlineshare-two2,
+.material-symbolsbookmark-outl-icon2,
+.uilcomments-icon2 {
+  position: absolute;
+  top: 300px;
+  left: 255px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.icon-park-outlineshare-two2,
+.material-symbolsbookmark-outl-icon2 {
+  left: 335px;
+}
+.material-symbolsbookmark-outl-icon2 {
+  left: 423px;
+}
+.live-stream-post-child4 {
+  position: absolute;
+  top: 72px;
+  left: 94px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-slateblue);
+  box-sizing: border-box;
+  width: 54px;
+  height: 24px;
+}
+.tag-13 {
+  left: 100px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: flex;
+  align-items: center;
+  width: 42px;
+}
+.live-stream-post-child5,
+.tag-13,
+.tag-23 {
+  position: absolute;
+  top: 72px;
+  height: 24px;
+}
+.live-stream-post-child5 {
+  left: 153px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-yellowgreen);
+  box-sizing: border-box;
+  width: 52px;
+}
+.tag-23 {
+  left: 159px;
+  font-weight: 600;
+  color: var(--color-yellowgreen);
+  display: flex;
+  align-items: center;
+  width: 40px;
+}
+.live-stream-post-child6 {
+  position: absolute;
+  top: 222px;
+  left: 94px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver-100);
+  width: 346px;
+  height: 70px;
+}
+.material-symbolslink-icon {
+  position: absolute;
+  top: 237px;
+  left: 108px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.link-name {
+  margin: 0;
+}
+.link-name-link-container {
+  position: absolute;
+  top: 237px;
+  left: 168px;
+  font-weight: 600;
+  display: inline-block;
+  width: 245px;
+  height: 40px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  position: absolute;
+  top: 300px;
+  left: 119px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: flex;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+}
+.div10,
+.div11,
+.div9 {
+  left: 199px;
+  color: var(--color-black);
+}
+.div10,
+.div11 {
+  left: 279px;
+}
+.div11 {
+  left: 359px;
+}
+.live-stream-post2 {
+  position: absolute;
+  top: 406px;
+  left: 362px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 472px;
+  height: 345px;
+  overflow: hidden;
+}
+.tournments-you-follow1 {
+  position: absolute;
+  top: 11px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 185px;
+  height: 20px;
+}
+.chats-child26,
+.chats-child27,
+.chats-child28,
+.chats-child29 {
+  position: absolute;
+  top: 73px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+}
+.chats-child27,
+.chats-child28,
+.chats-child29 {
+  top: 202px;
+}
+.chats-child28,
+.chats-child29 {
+  top: 110px;
+}
+.chats-child29 {
+  top: 239px;
+}
+.team-name16,
+.team-name17 {
+  position: absolute;
+  top: 76px;
+  left: 51px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.team-name17 {
+  top: 205px;
+}
+.team-name18,
+.team-name19,
+.won-rounds-no4,
+.won-rounds-no5,
+.won-rounds-no6,
+.won-rounds-no7 {
+  position: absolute;
+  top: 76px;
+  left: 164px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.team-name18,
+.team-name19,
+.won-rounds-no5,
+.won-rounds-no6,
+.won-rounds-no7 {
+  top: 205px;
+}
+.team-name18,
+.team-name19,
+.won-rounds-no6,
+.won-rounds-no7 {
+  top: 111px;
+}
+.team-name18,
+.team-name19,
+.won-rounds-no7 {
+  top: 240px;
+}
+.team-name18,
+.team-name19 {
+  top: 111px;
+  left: 51px;
+}
+.team-name19 {
+  top: 240px;
+}
+.tournament-name3,
+.tournament-name4 {
+  position: absolute;
+  top: 47px;
+  left: 51px;
+  font-weight: 600;
+  color: var(--color-lightslategray);
+  display: flex;
+  align-items: center;
+  width: 238px;
+}
+.tournament-name4 {
+  top: 176px;
+}
+.chats8 {
+  position: absolute;
+  top: 82px;
+  left: 860px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 306px;
+  height: 308px;
+  overflow: hidden;
+}
+.your-chats1 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  display: inline-block;
+  width: 128px;
+  height: 20px;
+}
+.chats-child30 {
+  position: absolute;
+  top: 51px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child31,
+.chats-child32,
+.chats-child33,
+.chats-child34 {
+  position: absolute;
+  top: 115px;
+  left: 15px;
+  width: 48px;
+  height: 48px;
+}
+.chats-child32,
+.chats-child33,
+.chats-child34 {
+  top: 179px;
+}
+.chats-child33,
+.chats-child34 {
+  top: 243px;
+}
+.chats-child34 {
+  top: 307px;
+}
+.user-name16,
+.user-name17,
+.user-name18 {
+  position: absolute;
+  top: 52px;
+  left: 86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.user-name17,
+.user-name18 {
+  top: 116px;
+}
+.user-name18 {
+  top: 180px;
+}
+.message10,
+.message11,
+.message7,
+.message8,
+.message9,
+.user-name19,
+.user-name20 {
+  position: absolute;
+  top: 244px;
+  left: 86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+}
+.message10,
+.message11,
+.message7,
+.message8,
+.message9,
+.user-name20 {
+  top: 308px;
+}
+.message10,
+.message11,
+.message7,
+.message8,
+.message9 {
+  top: 77px;
+}
+.message10,
+.message11,
+.message8,
+.message9 {
+  top: 141px;
+}
+.message10,
+.message11,
+.message9 {
+  top: 205px;
+}
+.message10,
+.message11 {
+  top: 269px;
+}
+.message11 {
+  top: 333px;
+}
+.chats9 {
+  position: absolute;
+  top: 406px;
+  left: 857px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 306px;
+  height: 368px;
+  overflow: hidden;
+}
+.profile4 {
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  width: 100%;
+  height: 878px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}
